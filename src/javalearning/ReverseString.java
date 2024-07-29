@@ -12,7 +12,7 @@ public class ReverseString {
 		for(int i=len-1;i>=0;i--) {
 			rev=rev+s.charAt(i);
 		}
-		
+		//vivek
 System.out.println(rev);
 StringBuffer sf=new StringBuffer(s);
 System.out.println(sf.reverse());
